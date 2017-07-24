@@ -1,0 +1,30 @@
+.imagebox{
+    position: relative;
+    top: 5vw;
+    left: 2vw;
+    width: 20vw;
+    float: left;
+    height: 800px;
+    background: lightgrey;
+    img{
+      margin-left: 10px;
+}
+}
+
+.header1{
+    height: 300px;
+    margin-top: 5vw;
+    background: lightblue;
+}
+
+.input{
+    margin-top: 100px;
+}
+
+.activity{
+    margin-top: 100px;
+    li{
+    list-style-type: none;
+    }
+    margin-top: 200px;
+}
