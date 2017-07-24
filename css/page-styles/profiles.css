@@ -1,11 +1,14 @@
 .imagebox{
-    position: absolute;
+    position: relative;
     top: 5vw;
     left: 2vw;
     width: 20vw;
     float: left;
     height: 800px;
     background: lightgrey;
+    img{
+      margin-left: 10px;
+}
 }
 
 .header1{
