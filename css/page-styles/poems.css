@@ -1,0 +1,21 @@
+.title{
+    background: lightblue;
+    width: 20vw;
+    text-align: center;
+}
+
+.author{
+    background: lightcoral;
+    width: 20vw;    
+    text-align: center;
+}
+
+.lines{
+    width: 50vw;
+
+}
+
+body{
+    background: #faebd7;
+}
+
