@@ -11,6 +11,15 @@
            padding-bottom: 20px;
        }
 
+    /*Home page styling*/
+    .row {
+      font-size: 24px;
+      text-align: center;
+      width: 1150px;
+      margin: 0 auto;
+      position: relative;
+      line-height: 2;
+    }
 
 
 
